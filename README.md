@@ -1,16 +1,29 @@
-# hotel_app
+# 🏨 Smart Hotel Booking App
 
-A new Flutter project.
+A Flutter-based smart hotel booking application.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+### Before
+<img src="assets/images/before.jpg" alt="Before Screenshot" width="300"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### After
+<img src="assets/images/after.jpg" alt="After Screenshot" width="300"/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🎥 Demo Video
+[![Watch the video](https://img.youtube.com/vi/OxLsfp3qHGI/0.jpg)](https://youtu.be/OxLsfp3qHGI)
+
+---
+
+## ⚙️ Features
+- User-friendly interface.
+- Browse hotel offers with images.
+- Dynamic price range selection.
+- Guest reviews with star ratings.
+- Smooth animations between tabs.
+
+---
